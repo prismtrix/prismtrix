@@ -1,6 +1,5 @@
 ### Olá 👋
 [![Olhe Isto: ](https://github-readme-stats.vercel.app/api/pin/?username=prismtrix&repo=Undefined_Package)](https://github.com/prismtrix/Undefined_Package)
-[![Status De Programação: ](https://github-readme-stats.vercel.app/api/wakatime?username=prismtrix)](https://github.com/prismtrix/Undefined_Package)
 - 🔭 Atualmente Sou Estudante Em Medicina Veterinária E Enfermagem
 - 🌱 Estudando JS, Front-End e Back-End
 - 😄 Pronomes: Descubra, Me Chame No Discord E Vamos Conversar: PrismTrix#7346
